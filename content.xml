@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260419180213JFMQJD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260419180213ACN4TT</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA - TODOS LOS SERES VIVOS CUENTAN</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana I. López Barrera</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para llevar a cabo en el nivel de 1º de ESO en la materia de Biología y Geología.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776614244213</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9d-ndtsou8r0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA - TODOS LOS SERES VIVOS IMPORTAN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA - TODOS LOS SERES VIVOS IMPORTAN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA - TODOS LOS SERES VIVOS IMPORTAN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9d-ndtsou8r0</odePageId>
+      <odeBlockId>block-1775985750604-ycq9rlfm8</odeBlockId>
+      <blockName>Descripción de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9d-ndtsou8r0</odePageId>
+          <odeBlockId>block-1775985750604-ycq9rlfm8</odeBlockId>
+          <odeIdeviceId>idevice-1775985750600-xhf5ruza3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">Etapa educativa y nivel: <strong>1º ESO</strong></li>
+<li style="text-align: justify;">Áreas, materias y/o módulos implicados: <strong>Biología y Geología</strong></li>
+<li style="text-align: justify;">Agrupamientos y organización espacial: <strong>individual, por parejas y en grupos de 4-6 personas.</strong></li>
+<li style="text-align: justify;">Temporalización: <strong>5-6 sesiones</strong></li>
+<li style="text-align: justify;">Productos desarrollados por el alumnado: <strong>mapa conceptual, webquest, presentación oral, infografía.</strong></li>
+<li style="text-align: justify;">Herramientas tecnológicas utilizadas: <strong>powerpoint, WebQuest Creator, Kahoot, pixabay.com, canva.</strong></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775985750600-xhf5ruza3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Etapa educativa y nivel: <strong>1º ESO</strong></li>\n<li style=\"text-align: justify;\">Áreas, materias y/o módulos implicados: <strong>Biología y Geología</strong></li>\n<li style=\"text-align: justify;\">Agrupamientos y organización espacial: <strong>individual, por parejas y en grupos de 4-6 personas.</strong></li>\n<li style=\"text-align: justify;\">Temporalización: <strong>5-6 sesiones</strong></li>\n<li style=\"text-align: justify;\">Productos desarrollados por el alumnado: <strong>mapa conceptual, webquest, presentación oral, infografía.</strong></li>\n<li style=\"text-align: justify;\">Herramientas tecnológicas utilizadas: <strong>powerpoint, WebQuest Creator, Kahoot, pixabay.com, canva.</strong></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9m-1i9s0ebav</odePageId>
+  <odeParentPageId>page-mo5y3d9d-ndtsou8r0</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9m-1i9s0ebav</odePageId>
+      <odeBlockId>block-1775989251258-5nds1exdf</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9m-1i9s0ebav</odePageId>
+          <odeBlockId>block-1775989251258-5nds1exdf</odeBlockId>
+          <odeIdeviceId>idevice-1775989251255-mqsk0mje8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;"><strong>Justificación y objetivos</strong>: Esta unidad tiene como objetivo que el alumnado comprenda la gran biodiversidad terrestre mediante la clasificación de los seres vivos. A través del estudio de todos los reinos y de los principales grupos taxonómicos, se promueve el respeto por la biodiversidad y la necesidad de su conservación, especialmente poniendo en valor especies del entorno próximo, como el asturiano. Con todo ello, se desarrollan competencias clave del pensamiento científico, la observación, la descripción y la argumentación lógica, facilitando una conexión entre ciencia y ciudadanía.</li>
+<li style="text-align: justify;"><strong>Relación de la Situación de Aprendizaje (SA) con los Objetivos de Desarrollo Sostenible (ODS) y Retos del siglo XXI</strong>: se relaciona con los Objetivos 3, 4, 5, 10, 14 y 15. Con respecto a los Retos, se relaciona con la conciencia ambiental (desarrollando actitudes responsables hacia la conservación de la biodiversidad), el pensamiento crítico y científico (analizando problemas ambientales actuales), la ciudadanía global (comprendiendo el impacto humano en los ecosistemas), la sostenibilidad (promocionando hábitos que contribuyan a la protección del entorno natural) y la igualdad e inclusión (mediante el trabajo cooperativo y respeto a la diversidad social y biológica).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775989251255-mqsk0mje8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\"><strong>Justificación y objetivos</strong>: Esta unidad tiene como objetivo que el alumnado comprenda la gran biodiversidad terrestre mediante la clasificación de los seres vivos. A través del estudio de todos los reinos y de los principales grupos taxonómicos, se promueve el respeto por la biodiversidad y la necesidad de su conservación, especialmente poniendo en valor especies del entorno próximo, como el asturiano. Con todo ello, se desarrollan competencias clave del pensamiento científico, la observación, la descripción y la argumentación lógica, facilitando una conexión entre ciencia y ciudadanía.</li>\n<li style=\"text-align: justify;\"><strong>Relación de la Situación de Aprendizaje (SA) con los Objetivos de Desarrollo Sostenible (ODS) y Retos del siglo XXI</strong>: se relaciona con los Objetivos 3, 4, 5, 10, 14 y 15. Con respecto a los Retos, se relaciona con la conciencia ambiental (desarrollando actitudes responsables hacia la conservación de la biodiversidad), el pensamiento crítico y científico (analizando problemas ambientales actuales), la ciudadanía global (comprendiendo el impacto humano en los ecosistemas), la sostenibilidad (promocionando hábitos que contribuyan a la protección del entorno natural) y la igualdad e inclusión (mediante el trabajo cooperativo y respeto a la diversidad social y biológica).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9o-y5matvi3h</odePageId>
+  <odeParentPageId>page-mo5y3d9d-ndtsou8r0</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9o-y5matvi3h</odePageId>
+      <odeBlockId>block-1775990220533-38wbr0vtc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9o-y5matvi3h</odePageId>
+          <odeBlockId>block-1775990220533-38wbr0vtc</odeBlockId>
+          <odeIdeviceId>idevice-1775990220532-9tbwpn9o8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;"><strong>Competencias clave</strong>: CCL – Comunicación Lingüística, STEM – Matemática y competencia en Ciencia, Tecnología e Ingeniería,<br />CD – Digital, CPSAA - Personal, Social y de Aprender a Aprender,  y CC – Ciudadana</li>
+<li style="text-align: justify;"><strong>Competencias específicas</strong>: CE1- Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. CE2- Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas. CE5- Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva. CE6- Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posibles riesgos naturales. </li>
+<li style="text-align: justify;"><strong>Saberes básicos</strong>: Características comunes de los seres vivos. Los cinco reinos: moneras, protistas, hongos, plantas y animales. Principales grupos taxonómicos (género, especie, etc.). Principales especies de flora y fauna de Asturias. Herramientas básicas de clasificación (claves dicotómicas simples).</li>
+<li style="text-align: justify;"><strong>Criterios de evaluación</strong>: 1.1. Analiza conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos, manteniendo una actitud crítica y obteniendo conclusiones fundamentadas. 1.2. Facilita la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados, exponiendo argumentos fundamentados, respetuosos y flexibles. 2.1. Resuelve cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente. 5.1. Relaciona con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida. 6.1. Valora la importancia del paisaje como patrimonio natural analizando la fragilidad de los elementos que lo componen. 6.2. Interpreta el paisaje analizando sus elementos y reflexionando sobre el impacto ambiental y los riesgos naturales derivados de determinadas acciones humanas. 6.3. Reflexiona sobre los riesgos naturales mediante el análisis de los elementos de un paisaje, valorando la importancia de mantener un compromiso con el medio ambiente para el desarrollo seguro, sostenible e igualitario de la humanidad.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775990220532-9tbwpn9o8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\"><strong>Competencias clave</strong>: CCL – Comunicación Lingüística, STEM – Matemática y competencia en Ciencia, Tecnología e Ingeniería,<br />CD – Digital, CPSAA - Personal, Social y de Aprender a Aprender,  y CC – Ciudadana</li>\n<li style=\"text-align: justify;\"><strong>Competencias específicas</strong>: CE1- Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. CE2- Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas. CE5- Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva. CE6- Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posibles riesgos naturales. </li>\n<li style=\"text-align: justify;\"><strong>Saberes básicos</strong>: Características comunes de los seres vivos. Los cinco reinos: moneras, protistas, hongos, plantas y animales. Principales grupos taxonómicos (género, especie, etc.). Principales especies de flora y fauna de Asturias. Herramientas básicas de clasificación (claves dicotómicas simples).</li>\n<li style=\"text-align: justify;\"><strong>Criterios de evaluación</strong>: 1.1. Analiza conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos, manteniendo una actitud crítica y obteniendo conclusiones fundamentadas. 1.2. Facilita la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados, exponiendo argumentos fundamentados, respetuosos y flexibles. 2.1. Resuelve cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente. 5.1. Relaciona con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida. 6.1. Valora la importancia del paisaje como patrimonio natural analizando la fragilidad de los elementos que lo componen. 6.2. Interpreta el paisaje analizando sus elementos y reflexionando sobre el impacto ambiental y los riesgos naturales derivados de determinadas acciones humanas. 6.3. Reflexiona sobre los riesgos naturales mediante el análisis de los elementos de un paisaje, valorando la importancia de mantener un compromiso con el medio ambiente para el desarrollo seguro, sostenible e igualitario de la humanidad.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9p-3vr9943jb</odePageId>
+  <odeParentPageId>page-mo5y3d9d-ndtsou8r0</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9p-3vr9943jb</odePageId>
+      <odeBlockId>block-1776072449182-sydbvtv5r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9p-3vr9943jb</odePageId>
+          <odeBlockId>block-1776072449182-sydbvtv5r</odeBlockId>
+          <odeIdeviceId>idevice-1776072449178-otbvgbxx5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">Pensamiento visual (Visual Thinking): utilizarán dibujos, mapas mentales y esquemas para organizar las ideas al final de cada explicación. </li>
+<li style="text-align: justify;">Aprendizaje basado en proyectos (ABP): investigarán especies invasoras de Asturias o de España y tendrán que hacer una exposición oral con la especie elegida y sus posibles soluciones.</li>
+<li style="text-align: justify;">Aprendizaje cooperativo: por grupos heterogéneos y roles definidos tendrán que resolver algunos problemas que se les plantearán relacionados con la biodiversidad. Tendrán que hacer una infografía de especies emblemáticas de Asturias/España.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776072449178-otbvgbxx5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Pensamiento visual (Visual Thinking): utilizarán dibujos, mapas mentales y esquemas para organizar las ideas al final de cada explicación. </li>\n<li style=\"text-align: justify;\">Aprendizaje basado en proyectos (ABP): investigarán especies invasoras de Asturias o de España y tendrán que hacer una exposición oral con la especie elegida y sus posibles soluciones.</li>\n<li style=\"text-align: justify;\">Aprendizaje cooperativo: por grupos heterogéneos y roles definidos tendrán que resolver algunos problemas que se les plantearán relacionados con la biodiversidad. Tendrán que hacer una infografía de especies emblemáticas de Asturias/España.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9r-34ca86yfl</odePageId>
+  <odeParentPageId>page-mo5y3d9d-ndtsou8r0</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9r-34ca86yfl</odePageId>
+      <odeBlockId>block-1776271660228-3t88a291e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9r-34ca86yfl</odePageId>
+          <odeBlockId>block-1776271660228-3t88a291e</odeBlockId>
+          <odeIdeviceId>idevice-1776271660225-gremfbrc7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Se conecta con el <strong>Plan de Lectura, Escritura e Investigación (PLEI)</strong> del centro, para mejorar la comprensión lectora de textos científicos, interpretar y aplicar información científica (no solo memorizar) y para aprender a desarrollar la expresión escrita en determinados contextos científicos. Se llevará a cabo a través de:</p>
+<p style="text-align: justify;">1. <strong>Lecturas científicas adaptadas</strong>: Uso de textos divulgativos (artículos, fragmentos de libros, fichas científicas).<br />2. <strong>Lectura guiada + aprendizaje activo</strong>: Lectura de descripciones de seres vivos (tipo fichas o pequeñas narraciones científicas, libro de texto en el aula). <br />3. <strong>Producción escrita</strong>: Elaboración de esquemas, resúmenes o “cuaderno de campo”<br />4. <strong>Lectura en voz alta y comunicación</strong>: Presentación oral de una especie o especies investigadas. Lectura en voz alta de textos elaborados por el alumnado o del libro de texto en clase. </p>
+<p style="text-align: justify;">En cuanto al <strong>Plan de Atención a la Diversidad:</strong><br /><span style="text-decoration: underline;">Estudiantes con dificultades visuales</span>: Fichas en formato digital accesible, con lector de pantalla. Modelos en 3D o materiales táctiles. Explicaciones orales complementarias a todo recurso visual. Uso de audio-descripciones de especies.<br /><span style="text-decoration: underline;">Estudiantes con movilidad reducida</span>: Actividades adaptadas que no requieran desplazamientos excesivos. Trabajos colaborativos donde el alumnado pueda asumir roles no físicos (documentación, narrador, diseño digital).<br /><span style="text-decoration: underline;">Estudiantes con TDAH</span>:  Actividades breves y variadas. Instrucciones claras y visuales. Refuerzos positivos y tiempos bien estructurados. Flexibilidad para adaptarse a ritmos individuales. Organización de tareas por pasos y con checklist visuales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776271660225-gremfbrc7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Se conecta con el <strong>Plan de Lectura, Escritura e Investigación (PLEI)</strong> del centro, para mejorar la comprensión lectora de textos científicos, interpretar y aplicar información científica (no solo memorizar) y para aprender a desarrollar la expresión escrita en determinados contextos científicos. Se llevará a cabo a través de:</p>\n<p style=\"text-align: justify;\">1. <strong>Lecturas científicas adaptadas</strong>: Uso de textos divulgativos (artículos, fragmentos de libros, fichas científicas).<br />2. <strong>Lectura guiada + aprendizaje activo</strong>: Lectura de descripciones de seres vivos (tipo fichas o pequeñas narraciones científicas, libro de texto en el aula). <br />3. <strong>Producción escrita</strong>: Elaboración de esquemas, resúmenes o “cuaderno de campo”<br />4. <strong>Lectura en voz alta y comunicación</strong>: Presentación oral de una especie o especies investigadas. Lectura en voz alta de textos elaborados por el alumnado o del libro de texto en clase. </p>\n<p style=\"text-align: justify;\">En cuanto al <strong>Plan de Atención a la Diversidad:</strong><br /><span style=\"text-decoration: underline;\">Estudiantes con dificultades visuales</span>: Fichas en formato digital accesible, con lector de pantalla. Modelos en 3D o materiales táctiles. Explicaciones orales complementarias a todo recurso visual. Uso de audio-descripciones de especies.<br /><span style=\"text-decoration: underline;\">Estudiantes con movilidad reducida</span>: Actividades adaptadas que no requieran desplazamientos excesivos. Trabajos colaborativos donde el alumnado pueda asumir roles no físicos (documentación, narrador, diseño digital).<br /><span style=\"text-decoration: underline;\">Estudiantes con TDAH</span>:  Actividades breves y variadas. Instrucciones claras y visuales. Refuerzos positivos y tiempos bien estructurados. Flexibilidad para adaptarse a ritmos individuales. Organización de tareas por pasos y con checklist visuales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9s-kqk3sc3yq</odePageId>
+  <odeParentPageId>page-mo5y3d9d-ndtsou8r0</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9s-kqk3sc3yq</odePageId>
+      <odeBlockId>block-1776272083988-ad8z1uw1d</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9s-kqk3sc3yq</odePageId>
+          <odeBlockId>block-1776272083988-ad8z1uw1d</odeBlockId>
+          <odeIdeviceId>idevice-1776272083985-ym1r2ar5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Se llevará a cabo una excursión en horario lectivo, si es posible, a una playa cercana para ver la biodiversidad en ambientes costeros.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776272083985-ym1r2ar5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Se llevará a cabo una excursión en horario lectivo, si es posible, a una playa cercana para ver la biodiversidad en ambientes costeros.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9s-ootgxx16x</odePageId>
+  <odeParentPageId>page-mo5y3d9d-ndtsou8r0</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9s-ootgxx16x</odePageId>
+      <odeBlockId>block-1776415661084-1zsfeh901</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9s-ootgxx16x</odePageId>
+          <odeBlockId>block-1776415661084-1zsfeh901</odeBlockId>
+          <odeIdeviceId>idevice-1776415661082-tnkohx5q3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776415661082-tnkohx5q3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5y3d9t-smetx4xzl</odePageId>
+  <odeParentPageId>page-mo5y3d9s-ootgxx16x</odeParentPageId>
+  <pageName>Descarga este eXe</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5y3d9t-smetx4xzl</odePageId>
+      <odeBlockId>block-1776416209394-00th8okxz</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5y3d9t-smetx4xzl</odePageId>
+          <odeBlockId>block-1776416209394-00th8okxz</odeBlockId>
+          <odeIdeviceId>idevice-1776416209392-0ozjk7qrq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA - Todos los seres vivos importan</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje para llevar a cabo en el nivel de 1º de ESO en la materia de Biología y Geología.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana López</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
